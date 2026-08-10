@@ -1,5 +1,5 @@
 package com.bhavya.learning;
-
+import com.bhavya.learning.models.Student; 
 /**
  * Hello world!
  *
